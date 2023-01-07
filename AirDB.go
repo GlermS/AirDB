@@ -2,7 +2,7 @@ package AirDB
 
 import "fmt"
 
-func get() {
+func Get() {
 	fmt.Println("get")
 }
 
